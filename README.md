@@ -8,7 +8,7 @@
  First, the output of the process should be the display of all variables each one with its value,
  sorted by the variable name:
  Second, all variables are displayed each one with its value sorted by value; such as:
- ------------------
+
 ￼￼￼￼￼￼X = 12.5
 Y = X*4/5
 Z = X*Y/5
