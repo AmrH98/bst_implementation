@@ -8,14 +8,15 @@
  First, the output of the process should be the display of all variables each one with its value,
  sorted by the variable name:
  Second, all variables are displayed each one with its value sorted by value; such as:
+ ------------------
 ￼￼￼￼￼￼X = 12.5
 Y = X*4/5
 Z = X*Y/5
 M = Z*-2
 K = 10.5+ (Z-2.5)/(X+Y)
 ￼￼￼K = 11.5 M = -50 X = 12.5 Y = 10 Z = 25
-￼￼￼
-2. Requirements
+￼￼￼--------------------
+# Requirements
  The following Expression Evaluation should be done by converting it from infix to postfix notation, using stacks.
  Variables must be stored in a BST each node having a key/value:
 o Key is the variable name
